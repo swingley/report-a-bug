@@ -1,5 +1,5 @@
 body {
-    background:#efefef;
+    background:#fff;
 }
 
 h1 {
@@ -13,4 +13,32 @@ p {
 
 a {
     color:darkred;
+}
+
+blockquote {
+    background:#f5e7da;
+    font:italic 24px/40px 'Cardo';
+    border-radius:5px;
+}
+
+.guide {
+    font:normal 20px/40px 'Open Sans';
+    border-radius:5px;
+}
+
+.green {
+    background:#dce8d1;
+}
+
+ul {
+    padding: 20px 40px;
+    list-style-type:circle
+}
+
+ul li {
+    font:normal 20px/40px 'Open Sans';
+}
+
+h2 {
+    margin-top:80px;
 }
